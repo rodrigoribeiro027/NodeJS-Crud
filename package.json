@@ -1,0 +1,23 @@
+{
+  "name": "nodejs-crud",
+  "version": "1.0.0",
+  "description": "Elabore uma aplicação em NodeJS baseado nas páginas 81 até 98.Fazer o CRUD usando as tabelas clientes e Pedidos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rodrigoribeiro027/NodeJS-Crud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rodrigoribeiro027/NodeJS-Crud/issues"
+  },
+  "homepage": "https://github.com/rodrigoribeiro027/NodeJS-Crud#readme",
+  "dependencies": {
+    "mysql2": "^2.3.3"
+  },
+  "devDependencies": {}
+}
